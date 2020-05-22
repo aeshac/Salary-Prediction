@@ -1,4 +1,3 @@
-# salary-prediction
 # Salary-Prediction
 
 This repository contains Python scripts to analyse the salary data which helps predict the salaries for newer job postings
